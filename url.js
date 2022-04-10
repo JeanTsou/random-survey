@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://forms.gle/9GTZWDxhRCrTRLwz9',
 	'https://forms.gle/eBLRxhDynSpsbpcd7',
 	'https://forms.gle/hMVWTKahHn81jRRR9',
 	'https://forms.gle/mC7AJ6vBR7Bnd7yz6',
